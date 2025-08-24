@@ -1,0 +1,13 @@
+Species,File,N_whistles,LOGO_Score,LOGO_Classification,Meta_Score,Meta_Classification,Final_Classification,Prediction
+S_attenuata,S_attenuata_PMC_20_A13_RoccaContourStats.csv,30,0.31,S_attenuata,0.63,S_attenuata,S_attenuata,True
+S_attenuata,S_attenuata_PMC_BS_20_A43_RoccaContourStats.csv,16,0.29,S_attenuata,0.42,S_attenuata,S_attenuata,True
+S_attenuata,S_attenuata_PMC_BS_20_A46_RoccaContourStats.csv,52,0.3,S_attenuata,0.68,S_attenuata,S_attenuata,True
+S_clymene,S_clymene_PMC_20_A15_RoccaContourStats.csv,15,0.3,S_clymene,0.82,S_clymene,S_clymene,True
+S_frontalis,S_frontalis_PMC_20_A28_RoccaContourStats.csv,9,0.32,S_frontalis,0.81,S_frontalis,S_frontalis,True
+S_frontalis,S_frontalis_PMC_20_A29_RoccaContourStats.csv,2,0.24,Delphinus,0.32,Delphinus,Delphinus,False
+S_frontalis,S_frontalis_PMC_20_A36_RoccaContourStats.csv,5,0.18,S_frontalis,0.34,T_truncatus,T_truncatus,False
+S_frontalis,S_frontalis_PMC_BS_20_A23_RoccaContourStats.csv,26,0.25,S_frontalis,0.45,S_frontalis,S_frontalis,True
+S_frontalis,S_frontalis_PMC_BS_20_A31_RoccaContourStats.csv,44,0.33,S_frontalis,0.91,S_frontalis,S_frontalis,True
+S_frontalis,S_frontalis_PMC_BS_20_A38_RoccaContourStats.csv,10,0.29,S_frontalis,0.71,S_frontalis,S_frontalis,True
+S_frontalis,S_frontalis_PMC_BS_20_A42_RoccaContourStats.csv,5,0.38,S_frontalis,0.9,S_frontalis,S_frontalis,True
+S_longirostris,S_longirostris_PMC_BS_20_A35_RoccaContourStats.csv,13,0.31,S_longirostris,0.93,S_longirostris,S_longirostris,True

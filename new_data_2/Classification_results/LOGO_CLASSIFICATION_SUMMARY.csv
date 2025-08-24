@@ -1,0 +1,13 @@
+Species,File,N_whistles,Delphinus,S_attenuata,S_bredanensis,S_clymene,S_frontalis,S_longirostris,T_truncatus,Max_Score,Ambiguity,Second_Max_Value,Max_Col,Second_Max_Col,Prediction
+S_attenuata,S_attenuata_PMC_20_A13_RoccaContourStats.csv,30,0.103,0.309,0.039,0.098,0.248,0.068,0.135,0.309,no,0.248,S_attenuata,S_frontalis,True
+S_attenuata,S_attenuata_PMC_BS_20_A43_RoccaContourStats.csv,16,0.126,0.287,0.014,0.042,0.181,0.221,0.13,0.287,no,0.221,S_attenuata,S_longirostris,True
+S_attenuata,S_attenuata_PMC_BS_20_A46_RoccaContourStats.csv,52,0.116,0.296,0.024,0.094,0.256,0.07,0.144,0.296,no,0.256,S_attenuata,S_frontalis,True
+S_clymene,S_clymene_PMC_20_A15_RoccaContourStats.csv,15,0.114,0.095,0.097,0.303,0.119,0.136,0.136,0.303,no,0.136,S_clymene,S_longirostris,True
+S_frontalis,S_frontalis_PMC_20_A28_RoccaContourStats.csv,9,0.144,0.221,0.042,0.046,0.319,0.109,0.119,0.319,no,0.221,S_frontalis,S_attenuata,True
+S_frontalis,S_frontalis_PMC_20_A29_RoccaContourStats.csv,2,0.239,0.102,0.039,0.113,0.171,0.182,0.153,0.239,no,0.182,Delphinus,S_longirostris,False
+S_frontalis,S_frontalis_PMC_20_A36_RoccaContourStats.csv,5,0.183,0.121,0.12,0.177,0.185,0.081,0.133,0.185,no,0.183,S_frontalis,Delphinus,True
+S_frontalis,S_frontalis_PMC_BS_20_A23_RoccaContourStats.csv,26,0.144,0.129,0.17,0.1,0.246,0.071,0.14,0.246,no,0.17,S_frontalis,S_bredanensis,True
+S_frontalis,S_frontalis_PMC_BS_20_A31_RoccaContourStats.csv,44,0.159,0.164,0.048,0.078,0.331,0.083,0.136,0.331,no,0.164,S_frontalis,S_attenuata,True
+S_frontalis,S_frontalis_PMC_BS_20_A38_RoccaContourStats.csv,10,0.206,0.114,0.143,0.097,0.292,0.052,0.097,0.292,no,0.206,S_frontalis,Delphinus,True
+S_frontalis,S_frontalis_PMC_BS_20_A42_RoccaContourStats.csv,5,0.137,0.144,0.038,0.086,0.381,0.057,0.158,0.381,no,0.158,S_frontalis,T_truncatus,True
+S_longirostris,S_longirostris_PMC_BS_20_A35_RoccaContourStats.csv,13,0.213,0.099,0.023,0.12,0.073,0.308,0.165,0.308,no,0.213,S_longirostris,Delphinus,True
