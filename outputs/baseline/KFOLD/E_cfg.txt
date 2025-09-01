@@ -1,0 +1,8 @@
+rs_bal_1: 50978
+rs_bal_2: 58443
+rs_bal_3: 13185
+rs_skf: 23093
+rs_rf: 25793
+n_estimators: 1000
+max_features: 0.75
+max_depth: 15
