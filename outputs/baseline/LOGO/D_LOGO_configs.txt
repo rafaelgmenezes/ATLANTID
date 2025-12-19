@@ -1,7 +1,0 @@
-rs_bal: 71437
-random_state: 78113
-n_estimators: 500
-max_features: 0.5
-max_depth: 10
-oob_score: True
-n_jobs: -1

@@ -2,3 +2,5 @@
 /codes_raw/
 /new_data_2/
 /docs/
+/outputs/
+*.pkl
