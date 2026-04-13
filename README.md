@@ -22,5 +22,5 @@ This project uses **Jupyter Notebooks**. To run the classifier:
 If you use this code or data, please cite our paper:
 > Paro, A.D.; Coutinho, R.; Wedekin, L.; G. de Menezes, Rafael; Oswald, J.N. (2026). ATLANTID: a robust dolphin whistle classifier for the Southwestern Atlantic Ocean. IN PREP [Journal name will be added here later].
 
-## 📄 Corresponding author
+## 📧 Corresponding author
 E-mail address: alebioacustica@hotmail.com (Paro, A.D.).
