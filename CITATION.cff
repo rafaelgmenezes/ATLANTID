@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  ATLANTID: a robust dolphin whistle classifier for the
+  Southwestern Atlantic Ocean.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alexandre
+    family-names: Paro
+  - given-names: Ricardo
+    family-names: Coutinho
+    orcid: 'https://orcid.org/0000-0001-5430-2176'
+  - given-names: Leonardo
+    family-names: Wedekin
+    orcid: 'https://orcid.org/0000-0001-8651-8051'
+  - given-names: Rafael
+    family-names: Gomes de Menezes
+    orcid: 'https://orcid.org/0000-0002-8699-8937'
+  - given-names: Julie
+    family-names: N. Oswald
+    orcid: 'https://orcid.org/0000-0002-1524-9592'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19497551
+repository-code: 'https://github.com/rafaelgmenezes/ATLANTID'
+version: v.1.0.0
+date-released: '2026-04-10'
