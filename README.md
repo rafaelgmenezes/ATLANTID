@@ -4,8 +4,8 @@ ATLANTID is a whistle classifier designed for dolphin species in the Southwester
 This repository contains the code and Jupyter Notebooks used for model development and validation.
 
 ## 📦 Data & Resources
-* **Extracted Features (Dataset):** https://doi.org/10.5281/zenodo.19497551
-* **Source Code Archive:**  https://doi.org/10.5281/zenodo.19551882
+* **Extracted Features (Dataset):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19497551.svg)](https://doi.org/10.5281/zenodo.19497551)
+* **Source Code Archive:**  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19551882.svg)](https://doi.org/10.5281/zenodo.19551882)
 
 ## 🚀 Quick Start
 This project uses **Jupyter Notebooks**. To run the classifier:
